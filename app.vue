@@ -14,5 +14,7 @@
 </template>
 
 <script setup lang="ts">
+import { NSpace, NResult, NButton } from 'naive-ui';
+
 const key = ref(0);
 </script>
